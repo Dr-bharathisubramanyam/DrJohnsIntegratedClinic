@@ -1,0 +1,6 @@
+{
+  "name": "Dr John's Integrated Clinic * TCM * AYUSH",
+  "description": "Advanced professional clinic in Taramani, Chennai integrating Traditional Chinese Medicine (TCM) and AYUSH (Siddha) therapies. Director Dr KYUNG JIN MIN TCM, Consultant Dr Nava Subramanya Bharathi BSMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
